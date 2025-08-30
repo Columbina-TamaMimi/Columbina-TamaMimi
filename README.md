@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-👨‍💻This is my primary GitHub profile.
+👨‍💻 This is my primary GitHub profile.
 
 💻 For additional projects and development experiments, feel free to check out my secondary profile: @TamaMimi.
 
