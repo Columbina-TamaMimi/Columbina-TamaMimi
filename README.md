@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-🎓 I'm currently learning C#, and focusing on building small projects to practice what I learn.
+👨‍💻This is my primary GitHub profile.
+
+💻 For additional projects and development experiments, feel free to check out my secondary profile: @TamaMimi.
+
+🎓 Currently learning C# and focusing on building small projects to practice my skills.
 
 * 🌍  I'm based in Ayutthaya, Thailand
 * 🖥️  See my portfolio at [My Port](http://github.com/Columbina-TamaMimi)
